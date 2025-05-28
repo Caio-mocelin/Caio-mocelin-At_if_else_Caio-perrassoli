@@ -9,6 +9,8 @@
 
 <div class="resultado">
     <?php
+$temp = $_GET['temp'];
+
     echo "Temperatura: $temp °C<br>";
 
     if ($temp < 15) {
@@ -21,6 +23,7 @@
         echo "<div class='reprovado'>Está muito quente!</div>";
     }
     ?>
+
 </div>
 
 </body>

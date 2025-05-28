@@ -28,7 +28,7 @@ if ($imc < 18.5) {
 </div>
 
 </body>
-</html></div>
+</html>
 
 </body>
 </html>
