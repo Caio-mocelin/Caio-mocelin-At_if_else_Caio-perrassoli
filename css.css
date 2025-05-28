@@ -32,6 +32,21 @@ input[type="submit"] {
     box-sizing: border-box;
 }
 
+.card {
+    display: inline-block;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    width: 200px;
+    font-family: Arial, sans-serif;
+}
+a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+}
+
 input[type="submit"] {
     background-color: #007BFF;
     color: white;
